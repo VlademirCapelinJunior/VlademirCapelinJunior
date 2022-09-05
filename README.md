@@ -1,4 +1,4 @@
-### Olá, sou o Vlademir Capelin Junior - Estudante de Ciência da Computação
+###  ✨ Olá, sou o Vlademir Capelin Junior - Estudante de Ciência da Computação
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="156em" src="https://github-readme-stats.vercel.app/api?username=VlademirCapelinJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
